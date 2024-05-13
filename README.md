@@ -1,6 +1,8 @@
 # Django Notes App
 
-Welcome to the Django Notes App repository! This application allows users to create, manage, and organize their notes effectively using Django.
+Welcome to the Django Notes App repository!
+
+This application allows users to create, manage, and organize their notes effectively using Django.
 
 ![app_logo](./static/images/python_django_logo.jpg)
 
