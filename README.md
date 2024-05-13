@@ -15,7 +15,7 @@ This application allows users to create, manage, and organize their notes effect
 
 ## Installation
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine.
 2. Install the required dependencies:
     ```
     pip install -r requirements.txt
