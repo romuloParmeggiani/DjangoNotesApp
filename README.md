@@ -40,7 +40,7 @@ This application allows users to create, manage, and organize their notes effect
 ## Usage
 
 1. Log in with your superuser account or register a new account.
-2. Create notes by clicking on the "New Note" button.
+2. Create notes by clicking on "New Note" button.
 3. Edit or delete notes as needed.
 4. Organize notes by adding tags or categories.
 5. Use the search bar to find specific notes quickly.
